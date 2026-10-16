@@ -1,0 +1,10 @@
+/test.txt
+
+# Flutter SDK (installed locally, not part of this project)
+/flutter/
+
+# Node
+node_modules/
+
+# OS / editor
+.DS_Store
