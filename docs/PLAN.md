@@ -139,7 +139,7 @@ Testing on your own iPhone works without the paid Apple account (free Apple ID; 
 
 Put all keys in a password manager; Claude will tell you where each one goes.
 
-### Step 1 — Project scaffold
+### Step 1 — Project scaffold ✅
 - Flutter project in `/app` with iOS, Android, Web targets; Supabase CLI project in `/supabase`.
 - Riverpod, go_router, freezed, gen-l10n (`en`, `pl`, `uk` ARB files with a few strings), flavors/env config (`dev`, `prod`) via `--dart-define`.
 - Lints (`very_good_analysis` or `flutter_lints` strict), GitHub Actions: analyze + test + `flutter build web`.
