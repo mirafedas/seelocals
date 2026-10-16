@@ -1,8 +1,8 @@
 # MVP Plan — SeeLocals (social events app)
 
 **Name:** SeeLocals
-**App ID / bundle ID:** `com.<owner>.seelocals`(set in Step 1; must be final before Step 10)
-**Domain:** TBD (e.g. `seelocals.org`)
+**App ID / bundle ID:** `org.seelocals.app` (set in Step 1; must be final before Step 10)
+**Domain:** `seelocals.org` (not yet registered; needed by Step 10)
 
 Free, real-life events and groups. Launch city: Wrocław; data model supports any city.
 Platforms: iOS, Android, Web — one Flutter codebase. Payments/donations are **out of scope** for the MVP (see "Later" at the end).

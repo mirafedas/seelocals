@@ -1,7 +1,4 @@
 /test.txt
 
-# Node
-node_modules/
-
 # OS / editor
 .DS_Store

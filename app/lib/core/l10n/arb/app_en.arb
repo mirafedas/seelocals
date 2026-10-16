@@ -1,0 +1,27 @@
+{
+  "@@locale": "en",
+  "appTitle": "SeeLocals",
+  "@appTitle": {
+    "description": "App name shown in the app bar and task switcher."
+  },
+  "languageName": "English",
+  "@languageName": {
+    "description": "Name of this language, written in this language (autonym)."
+  },
+  "homeHeadline": "Meet people in real life",
+  "@homeHeadline": {
+    "description": "Headline on the placeholder home screen."
+  },
+  "homeSubtitle": "Free events and groups in your city. Coming soon.",
+  "@homeSubtitle": {
+    "description": "Subtitle on the placeholder home screen."
+  },
+  "languageLabel": "Language",
+  "@languageLabel": {
+    "description": "Label above the language selector."
+  },
+  "languageDevice": "Device language",
+  "@languageDevice": {
+    "description": "Language option that follows the device setting."
+  }
+}

@@ -1,0 +1,18 @@
+include: package:very_good_analysis/analysis_options.yaml
+
+analyzer:
+  exclude:
+    - build/**
+    - lib/**.g.dart
+    - lib/**.freezed.dart
+    - lib/core/l10n/generated/**
+    - android/**
+    - ios/**
+    - web/**
+
+linter:
+  rules:
+    # Public API docs are noise in an app (not a library).
+    public_member_api_docs: false
+    # Riverpod notifiers expose state changes as methods, not setters.
+    use_setters_to_change_properties: false
